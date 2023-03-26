@@ -27,3 +27,5 @@ export const fetchMovieWithId = (id) => {
 export const streamMovies = (id) => {
     return axios.get(`https://netflix-ghpw.onrender.com/movies/stream/${id}`)
 }
+
+
