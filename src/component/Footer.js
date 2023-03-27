@@ -57,8 +57,7 @@ function Footer() {
                 </h6>
                 <hr />
                 <h4 href="/">Made by <b className="text-white">Raj </b> <br />
-                    <a className
-                        ="text-danger" href="https://www.edureka.co/" target="_blank" rel="noreferrer">          Visit Edureka!</a>
+                   
                 </h4>
             </div>
         </div>
